@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591243218 source:f:\code\codeblocks\telecom copany system\main.cpp
+	<string>
+	<iostream>
+
